@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -O2 -g -rdynamic CMakeFiles/prime.dir/main.cpp.o -o prime  -lpthread 

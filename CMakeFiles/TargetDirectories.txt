@@ -1,0 +1,3 @@
+/home/jan/OrgFiles/College/OS/Assignments/Assign2/assignment-2-jan/CMakeFiles/rebuild_cache.dir
+/home/jan/OrgFiles/College/OS/Assignments/Assign2/assignment-2-jan/CMakeFiles/edit_cache.dir
+/home/jan/OrgFiles/College/OS/Assignments/Assign2/assignment-2-jan/CMakeFiles/prime.dir
